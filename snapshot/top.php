@@ -9,11 +9,13 @@
 <header>
 	<h1>商品データベース</h1>
 </header>
-<main id="complete">
-	<h2>商品の完了</h2>
-	<p>処理を完了しました。</p>
-	<p><a href="top.html">トップページに戻る</a></p>
-</main>
+<section id="index">
+	<h2>商品データベースの処理</h2>
+	<ul>
+		<li><a href="list.php">商品一覧</a></li>
+		<li><a href="entry.php">商品登録</a></li>
+	</ul>
+</section>
 <footer>
 	<div id="copyright">&copy; 2021 The Applied Course of Web System Development.</div>
 </footer>
