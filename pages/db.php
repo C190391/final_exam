@@ -13,3 +13,4 @@ function connectDB():PDO {
 	// データベース接続オブジェクトを返す
 	return $pdo;
 }
+
